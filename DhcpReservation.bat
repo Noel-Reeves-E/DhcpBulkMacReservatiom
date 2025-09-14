@@ -1,0 +1,1 @@
+PowerShell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Script\DhcpScript.ps1"
